@@ -74,7 +74,7 @@ class Brawler < SuperHero
   end
 
   def backstory
-    "Adrenaline junkie and MMA fighter Brian ‘The Brawler’ Baker, was known to throw a fight or two if the money was right. After all, fighting didn’t pay well and MMA training isn’t cheap. He did have ambitions to become champion some day, and when his chance finally came he was ready. What he wasn’t expecting was the fix he was expected to throw in this ‘the fight of his life’. Having refused, it was no wonder that he met with an unfortunate accident in the ring that left him clinging to life in a hospital for months. When his body healed and was un-bandaged for the first time, he and his doctors were amazed to discover the muscles had repaired themselves at 20 times the strength commonly found in such injuries. He was, in fact, too strong to ever compete again. Dismayed and depressed, he was found by the Launcher League and invited to use his strength for something positive."
+    "Adrenaline junkie and MMA fighter Brian ‘The Brawler’ Banter, was known to throw a fight or two if the money was right. After all, fighting didn’t pay well and MMA training isn’t cheap. He did have ambitions to become champion some day, and when his chance finally came he was ready. What he wasn’t expecting was the fix he was expected to throw in this ‘the fight of his life’. Having refused, it was no wonder that he met with an unfortunate accident in the ring that left him clinging to life in a hospital for months. When his body healed and was un-bandaged for the first time, he and his doctors were amazed to discover the muscles had repaired themselves at 20 times the strength commonly found in such injuries. He was, in fact, too strong to ever compete again. Dismayed and depressed, he was found by the Launcher League and invited to use his strength for something positive."
   end
 
   def health
@@ -115,7 +115,7 @@ class Demigod < SuperHero
   end
 
   def backstory
-    "Cast out of the Cosmic Plane for caring too little about the ‘powerless ones’, Narcicon was forced to walk the earth until he has convinced the ElderGods that he has changed his ways. As the founder of the Launch League, he hoped to right his many wrongs and thought he would be able to accomplish more faster with help. Still not having learned the over arching lesson, he lords over the others as much as they will allow him and has an over developed sense of superiority. He still has not received forgiveness from the ElderGods."
+    "Cast out of the Cosmic Plane for caring too little about the ‘powerless ones’, Narcicon was forced to walk the earth until he has convinced the ElderGods that he has changed his ways. As Reck Tifea, the founder of the Launch League, he hoped to right his many wrongs and thought he would be able to accomplish more faster with help. Still not having learned the over arching lesson, he lords over the others as much as they will allow him and has an over developed sense of superiority. He still has not received forgiveness from the ElderGods."
   end
 end
 
@@ -137,7 +137,7 @@ class JackOfAllTrades < SuperHero
   end
 
   def backstory
-    "On a routine scouting mission through the hyper-way to maintain peace and prosperity in the solar cluster, Brig 8’s ship suffered and ID 10t error and crashed just outside of Barstow. The Launch League fearing an invasion rushed to the scene and found her injured, but conscious and very wonderful. They nursed her to health and aided her assimilation into Earth culture. While repairs on her ship process slowly Brigette Barstow uses her alien abilities and tech to maintain peace and prosperity on Earth until she can return to her home on Venus."
+    "On a routine scouting mission through the hyper-way to maintain peace and prosperity in the solar cluster, Brig 8’s ship suffered and ID 10t error and crashed just outside of Barstow. The Launch League fearing an invasion rushed to the scene and found her injured, but conscious as well as smart, beautiful, and in all ways, very wonderful. They nursed her to health and aided her assimilation into Earth culture. While repairs on her ship progress slowly Brigette Barstow uses her alien abilities and tech to maintain peace and prosperity on Earth until she can return to her home on Venus."
   end
 
   def psychic?
