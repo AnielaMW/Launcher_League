@@ -50,11 +50,27 @@ class Speedster < SuperHero
 end
 
 class Brawler < SuperHero
+  def powers
+    "Possess the strength of 20 men."
+  end
+
+  def weakness
+    "Sadly, he is 'punchy'. A common term for fighters that have taken a few too many hits to the head and now have nothing but 'echoes between their ears'."
+  end
+
+  def backstory
+    "Adrenaline junkie and MMA fighter Brian ‘The Brawler’ Baker, was known to throw a fight or two if the money was right. After all, fighting didn’t pay well and MMA training isn’t cheap. He did have ambitions to become champion some day, and when his chance finally came he was ready. What he wasn’t expecting was the fix he was expected to throw in this ‘the fight of his life’. Having refused, it was no wonder that he met with an unfortunate accident in the ring that left him clinging to life in a hospital for months. When his body healed and was un-bandaged for the first time, he and his doctors were amazed to discover the muscles had repaired themselves at 20 times the strength commonly found in such injuries. He was, in fact, too strong to ever compete again. Dismayed and depressed, he was found by the Launcher League and invited to use his strength for something positive."
+  end
+
+  def health
+    super * 20
+  end
+
 end
 
 class Detective < SuperHero
   def powers
-    "Over heightened sense of sight, touch, smell, taste, and hearing making him acutely hyperaware of everything around him"
+    "Over heightened sense of sight, touch, smell, taste, and hearing making him acutely hyperaware of everything around him."
   end
 
   def weakness
