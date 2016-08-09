@@ -87,6 +87,9 @@ class Detective < SuperHero
 end
 
 class Demigod < SuperHero
+  def backstory
+    ""
+  end
 end
 
 class JackOfAllTrades < SuperHero
