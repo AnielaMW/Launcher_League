@@ -87,6 +87,21 @@ class Detective < SuperHero
 end
 
 class Demigod < SuperHero
+  def home
+    "Cosmic Plane"
+  end
+
+  def powers
+    "Immortal, cannot be killed, though can be injured and takes a shorter time than average to heal."
+  end
+
+  def weakness
+    "His own arrogance."
+  end
+
+  def backstory
+    "Cast out of the Cosmic Plane for caring too little about the ‘powerless ones’, he is forced to walk the earth until he has convinced the ElderGods that he has changed his ways. As the founder of the Launch League, he hoped to right his many wrongs and thought he would be able to accomplish more faster with help. Still not having learned the over arching lesson, he lords over the others as much as they will allow him and has an over developed sense of superiority. He still has not received forgiveness from the ElderGods."
+  end
 end
 
 class JackOfAllTrades < SuperHero
