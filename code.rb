@@ -108,6 +108,10 @@ class JackOfAllTrades < SuperHero
 end
 
 class WaterBased < SuperHero
+  def home
+    "Earth's Oceans"
+  end
+  
   def powers
     "Can breath in water as well as on land, and posses limited psychic abilities."
   end
