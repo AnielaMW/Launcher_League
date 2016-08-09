@@ -127,4 +127,8 @@ class WaterBased < SuperHero
   def backstory
     "Descended from a long line of evolutionary outcasts, Brook Waters has had to hide her abilities like so many of her forefathers before her. Early colonizing lands off the coast of Massachusetts, her people evolved working lungs and gills as well as a certain amount of psychic ability. They found a home in the sea as well as on land; cut off from civilization. Until they were discovered in the late 80’s and feared for their differences. The ‘Hunt’ killed them all, everyone except a small child who slipped below the surface and was pulled to sea by a dolphin. The child was pulled up in a net by an old fisherman, and knowing the rumors of her kind, he took her home to his wife. They adopted her as a grandniece and raised her as normal as they could. They taught her to hide her gills with scarves and collars and to block the psychic noise that clouded her head. After their passing, she moved to the city to work at the aquarium as the night curator. Joining the Launch League allowed her to be herself with someone and ended the loneliness she has felt through so much loss."
   end
+
+  def psychic?
+    true
+  end
 end
