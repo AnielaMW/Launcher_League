@@ -109,9 +109,13 @@ end
 
 class WaterBased < SuperHero
   def home
-    "Earth's Oceans"
+    "#{super}'s Oceans"
   end
-  
+
+  def fans_per_thousand
+    super/100
+  end
+
   def powers
     "Can breath in water as well as on land, and posses limited psychic abilities."
   end
