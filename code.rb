@@ -87,6 +87,10 @@ class Detective < SuperHero
 end
 
 class Demigod < SuperHero
+  def home
+    "Cosmic Plane"
+  end
+
   def powers
     "Immortal, cannot be killed, though can be injured and takes a shorter time than average to heal."
   end
